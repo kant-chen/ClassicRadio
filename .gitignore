@@ -1,1 +1,4 @@
 .backup
+classic_radio.build
+__pycache__*
+*.bin
